@@ -15,6 +15,7 @@
 
 ### 모델 1 : 안전요소 반영
  <img width="90%" src="https://user-images.githubusercontent.com/83095823/147869130-69ba4484-51dd-43a1-9351-87a0cc141a17.PNG"/>
+
 ### 모델 2 : 시민수요 반영
  <img width="90%" src="https://user-images.githubusercontent.com/83095823/147869131-a2387dd7-2060-434f-b683-7cf5e9c9677d.PNG"/>
 
